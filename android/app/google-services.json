@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980147663720",
+    "project_id": "firestore-a550e",
+    "storage_bucket": "firestore-a550e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980147663720:android:7e408a34775e43dad65cdd",
+        "android_client_info": {
+          "package_name": "com.codexia.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7AEDj3w4H_J8fl1EmUqm22wia7i4m2kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
